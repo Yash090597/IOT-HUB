@@ -1,0 +1,13 @@
+variable "rgname" {}
+variable "stg_acc_name" {}
+variable "eventhub_namespace_name" {}
+variable "eventhub_name" {}
+variable "eventhub_rule_name" {}
+variable "stg_cont_name" {}
+variable "iot_hub_name" {}
+variable "location" {}
+variable "pep1_type" {}
+variable "iot_hub_pep1" {}
+variable "pep2_type" {}
+variable "iot_hub_pep2" {}
+variable "enablecont" {}
